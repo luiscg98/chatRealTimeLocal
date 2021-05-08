@@ -1,0 +1,10 @@
+.sidebarPadre{
+  height: 85vh;
+  width: 25%;
+  background: red;
+}
+
+.sidebarPadre u{
+  display: flex;
+  align-items: center;
+}
