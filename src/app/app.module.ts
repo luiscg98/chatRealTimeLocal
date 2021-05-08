@@ -13,7 +13,7 @@ import { environment } from 'src/environments/environment';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 
 
-const config: SocketIoConfig = { url: 'http://apinode.luiscg.me', options: {} };
+const config: SocketIoConfig = { url: 'http://apinode.midominio.com', options: {} };
 
 @NgModule({
   declarations: [
